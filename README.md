@@ -1,0 +1,4 @@
+slider
+======
+
+Number slider
